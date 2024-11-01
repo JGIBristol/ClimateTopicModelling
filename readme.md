@@ -7,4 +7,6 @@ Code and instructions for applying [BERTopic Topic Modelling](https://maartengr.
 - The data loading is left to give an example but will not run unless you have the required datasets in your working directory.
 - Slightly misleading name. This BERTopic model has commented out code that means you can run this as a ZeroShot model (you can dictate zeroshot terms in the data loading stage or manually deploy them) but it also runs fine unsupervised.
 
-
+## TopicModellingWithBERT.pptx
+- Slide deck for a talk Huw gave to the Bristol Climate group on 13/11/2024.
+- Tried to keep text sparse on the slides but more denser in the notes so you can follow along!
